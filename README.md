@@ -1,8 +1,8 @@
 # FFXIV Sapphire Setup
 
-A script for setting up the FFXIV Sapphire Server on Ubuntu. This is based on the [Sapphire Linux Wiki Setup-Guide](https://github.com/SapphireMordred/Sapphire/wiki/Linux-Installation)
+A script for setting up the FFXIV Sapphire Server on Ubuntu. This is based on the [Sapphire Linux Wiki Setup-Guide](https://github.com/SapphireMordred/Sapphire/wiki/Linux-Installation).
 
-This is designed based on DigitalOcean Droplets.
+This is designed for DigitalOcean Droplets.
 
 ```sh
 wget https://raw.githubusercontent.com/viion/ffxiv-sapphire-setup/master/setup.sh
